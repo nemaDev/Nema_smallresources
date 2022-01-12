@@ -6,5 +6,5 @@
   
  ​client_scripts​ { 
  ​    ​'​@menuv/menuv.lua​'​, 
- ​    ​'​vehicle_menu.lua​' 
+ ​    ​'client.lua​' 
  ​}
